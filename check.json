@@ -1,0 +1,11 @@
+{
+  "command": [
+    "node",
+    "app.mjs"
+  ],
+  "expected": {
+    "phaseDegrees": 90,
+    "height": 4,
+    "trend": "falling"
+  }
+}
